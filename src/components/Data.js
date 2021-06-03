@@ -22,7 +22,7 @@ const menus = [
     },
     {
       id: 3,
-      title: 'ARBETSLIVSERFARENHET',
+      title: 'ARBETSLIV',
       info: <div>
       <p class="h6">Göteborgs Stad, Kock - <i>sep 2019 – pågående</i></p>
       <p class="fw-light">Tillfälligt studieledig för LIA</p>
@@ -45,7 +45,7 @@ const menus = [
     },
     {
       id: 5,
-      title: 'FRITIDSSYSSELSÄTTNING',
+      title: 'HOBBY',
       info: <div>
       <p class="h6">Att tittar på filmer och serier</p>
       <p class="h6">Att läsa om historien</p>
