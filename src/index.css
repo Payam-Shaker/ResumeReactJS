@@ -1,3 +1,15 @@
+:root {
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   margin: 50px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -6,17 +18,74 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.image-container {
+  position: relative;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.text-design {
+  font-size: medium;
+  text-align: justify;
+}
 .main-body {
   margin: 50px;
-  background-color: azure;
+  background-color: rgb(255, 255, 255);
+}
+.footer {
+  background-color: rgb(245, 242, 235);
+  padding: 20px 25px;
+  display: flex;
+  justify-content: center;
 }
 .bottom-right {
   position: absolute;
   bottom: 8px;
   right: 16px;
+}
+.menu {
+  padding: 1rem 1.5rem;
+  border: 2px solid var(--clr-grey-special);
+  margin-bottom: 1rem;
+  border-radius: var(--radius);
+  box-shadow: var(--light-shadow);
+}
+.menu h4 {
+  text-transform: none;
+  line-height: 1.5;
+}
+.menu p {
+  color: rgb(0, 0, 0);
+  margin-bottom: 0;
+  margin-top: 0.5rem;
+}
+.menu header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu header h4 {
+  margin-bottom: 0;
+}
+.btn {
+  background: transparent;
+  border-color: transparent;
+  width: 2rem;
+  height: 2rem;
+  background: var(--clr-grey-special);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  margin-left: 1rem;
+  align-self: center;
+  min-width: 2rem;
+}
+
+.menu-title {
+  cursor: pointer;
 }
