@@ -13,23 +13,23 @@ const menus = [
     },
     {
       id: 2,
-      title: 'UTBILDNING',
+      title: 'Vad jag har läst...',
       info: <img src={Utbildningimg} class="img-fluid" alt="Responsive image"/>,  
         
     },
     {
       id: 3,
-      title: 'ARBETSLIVSERFARENHET',
+      title: 'Vad jag har jobbat med...',
       info: <img src={Erfarenhetimg} class="img-fluid" alt="Responsive image"/>, 
     },
     {
       id: 4,
-      title: 'SPRÅK',
+      title: 'Jag pratar på...',
       info: <img src={Sprakimg} class="img-fluid" alt="Responsive image"/>, 
     },
     {
       id: 5,
-      title: 'FRITIDSSYSSELSÄTTNING',
+      title: '...och i min fritid?',
       info: <img src={Fritidimg} class="img-fluid" alt="Responsive image"/>,
     },
   ]
