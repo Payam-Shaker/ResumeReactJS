@@ -5,6 +5,7 @@ const Menu = ({ title, info }) => {
   const [expanded, setExpanded] = useState(false)
 
   return (
+    <div class="sjuk">
     <article className='menu'>
       <header>
         <h4 onClick={() => setExpanded(!expanded)} className='menu-title'>
@@ -16,6 +17,7 @@ const Menu = ({ title, info }) => {
       </header>
       {expanded && <p className="text-design image-container">{info}</p>}
     </article>
+    </div>
   )
 }
 

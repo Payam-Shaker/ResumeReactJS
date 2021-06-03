@@ -13,7 +13,7 @@ const App = () => {
   const [menus, setMenus] = useState(data)
   return (
     <main>
-     <div id="main-container" class="main-body">
+     <div id="main-container">
 
       <div class="image-container">
        
