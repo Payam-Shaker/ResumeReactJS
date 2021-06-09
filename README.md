@@ -17,3 +17,7 @@ of the application has been arranged.
 ### Responsiveness
 
 Responsiveness of this application has been achieved through Bootstrap classes and CSS design and positioning of elements.
+
+## Reference
+
+Part of this project, Accordion menu design, is based on this app: [A simple accordion style app built with React](https://github.com/obrm/Accordion)  
