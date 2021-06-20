@@ -1,3 +1,5 @@
+//import GitIntegration from './Intgit' 
+
 const menus = [
     {
       id: 1,
@@ -54,6 +56,7 @@ const menus = [
       <p class="h6">Att uppdatera mig om senaste teknologier inom IT</p>
       </div>
       ,
-    },
+    }
+    ,
   ]
   export default menus;

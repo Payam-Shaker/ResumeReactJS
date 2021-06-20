@@ -6,6 +6,8 @@ import Imagegit from './images/github.svg'
 import Imagetel from './images/telephone-fill.svg'
 import Imagemil from './images/envelope-fill.svg'
 import Personelle from './images/personal.png'
+import GitHubInteg from '../src/components/GitHubIntegration' 
+
 
 import './App.css';
 
@@ -35,10 +37,11 @@ const App = () => {
             <SingleMenu key={menu.id} {...menu} />
           ))}
         </section>
+        <GitHubInteg/>
     </div>
     </div>
-
-    <footer>
+        
+       <footer>
     <div className="footer">
             <a href="https://www.linkedin.com/in/payam-shaker" target="_blank">
               <img className="img-responsive icons-margin" src={Imagelnk} alt="Linkedin" width="32" height="32" /> 
