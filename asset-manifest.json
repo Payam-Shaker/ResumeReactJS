@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ResumeReactJS/static/css/main.1788d4cb.chunk.css",
-    "main.js": "/ResumeReactJS/static/js/main.220507e1.chunk.js",
-    "main.js.map": "/ResumeReactJS/static/js/main.220507e1.chunk.js.map",
-    "runtime-main.js": "/ResumeReactJS/static/js/runtime-main.56673f34.js",
-    "runtime-main.js.map": "/ResumeReactJS/static/js/runtime-main.56673f34.js.map",
+    "main.js": "/ResumeReactJS/static/js/main.3a3aa0bc.chunk.js",
+    "main.js.map": "/ResumeReactJS/static/js/main.3a3aa0bc.chunk.js.map",
+    "runtime-main.js": "/ResumeReactJS/static/js/runtime-main.531c4a59.js",
+    "runtime-main.js.map": "/ResumeReactJS/static/js/runtime-main.531c4a59.js.map",
     "static/css/2.61b4cb56.chunk.css": "/ResumeReactJS/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.52cce811.chunk.js": "/ResumeReactJS/static/js/2.52cce811.chunk.js",
-    "static/js/2.52cce811.chunk.js.map": "/ResumeReactJS/static/js/2.52cce811.chunk.js.map",
-    "static/js/3.2a9a062b.chunk.js": "/ResumeReactJS/static/js/3.2a9a062b.chunk.js",
-    "static/js/3.2a9a062b.chunk.js.map": "/ResumeReactJS/static/js/3.2a9a062b.chunk.js.map",
+    "static/js/2.96e72122.chunk.js": "/ResumeReactJS/static/js/2.96e72122.chunk.js",
+    "static/js/2.96e72122.chunk.js.map": "/ResumeReactJS/static/js/2.96e72122.chunk.js.map",
+    "static/js/3.ecc2c6d2.chunk.js": "/ResumeReactJS/static/js/3.ecc2c6d2.chunk.js",
+    "static/js/3.ecc2c6d2.chunk.js.map": "/ResumeReactJS/static/js/3.ecc2c6d2.chunk.js.map",
     "index.html": "/ResumeReactJS/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/ResumeReactJS/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.1788d4cb.chunk.css.map": "/ResumeReactJS/static/css/main.1788d4cb.chunk.css.map",
-    "static/js/2.52cce811.chunk.js.LICENSE.txt": "/ResumeReactJS/static/js/2.52cce811.chunk.js.LICENSE.txt",
+    "static/js/2.96e72122.chunk.js.LICENSE.txt": "/ResumeReactJS/static/js/2.96e72122.chunk.js.LICENSE.txt",
     "static/media/envelope-fill.9603dc70.svg": "/ResumeReactJS/static/media/envelope-fill.9603dc70.svg",
     "static/media/github.1dbcf7b2.svg": "/ResumeReactJS/static/media/github.1dbcf7b2.svg",
     "static/media/linkedin.fe8721c9.svg": "/ResumeReactJS/static/media/linkedin.fe8721c9.svg",
@@ -21,10 +21,10 @@
     "static/media/telephone-fill.89d162d2.svg": "/ResumeReactJS/static/media/telephone-fill.89d162d2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.56673f34.js",
+    "static/js/runtime-main.531c4a59.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.52cce811.chunk.js",
+    "static/js/2.96e72122.chunk.js",
     "static/css/main.1788d4cb.chunk.css",
-    "static/js/main.220507e1.chunk.js"
+    "static/js/main.3a3aa0bc.chunk.js"
   ]
 }
